@@ -1,0 +1,8 @@
+# Ignore the .next directory
+.next/
+
+# Ignore the node_modules/@next directory
+node_modules/@next/
+
+# Ignore the node_modules/next directory
+node_modules/next/

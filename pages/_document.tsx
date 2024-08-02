@@ -10,21 +10,21 @@ export default function Document() {
 
             <Head>
                 {/*
-				Author: Muhammad Fiaz
-                 GitHub: Visit the GitHub repository at https://github.com/muhammad-fiaz/portfolio/ for more details.
+				Author: Samir Sharma
+                 GitHub: Visit the GitHub repository at https://github.com/samirrsharma/portfolio/ for more details.
                  license: MIT License
                   */}
                 <meta charSet="utf-8"/>
                 <meta httpEquiv="X-UA-Compatible" content="IE=edge"/>
                 {/* eslint-disable-next-line @next/next/no-title-in-document-head */}
-                <title>Muhammad Fiaz</title>
+                <title>Samir Sharma</title>
                 <meta name="description"
-                      content="Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AL/ML, and Design. Join my journey."/>
+                      content="Samir Sharma - Full Stack Dev proficient in App/Web, Cloud, DevOps and AL/ML."/>
 
                 {/*These are need for PWA*/}
                 <meta name="apple-mobile-web-app-capable" content="yes"/>
                 <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
-                <meta name="apple-mobile-web-app-title" content="Muhammad Fiaz"/>
+                <meta name="apple-mobile-web-app-title" content="Samir Sharma"/>
                 <meta name="format-detection" content="telephone=no"/>
                 <meta name="mobile-web-app-capable" content="yes"/>
                 <meta name="msapplication-config" content="/favicon/browserconfig.xml"/>
@@ -34,17 +34,17 @@ export default function Document() {
                 <meta httpEquiv="Content-Type" content="text/html; charset=utf-8"/>
                 <meta name="language" content="English"/>
                 <meta name="revisit-after" content="1 days"/>
-                <link rel="canonical" href="https://muhammadfiaz.com"/>
+                <link rel="canonical" href="https://samirsharma.ca"/>
                 <meta name="license" content="MIT License"/>
                 <meta httpEquiv="content-language" content="en-us"/>
 
-                <link rel="preconnect" href="https://muhammadfiaz.com"/>
+                <link rel="preconnect" href="https://samirsharma.ca"/>
 
-                <link rel="dns-prefetch" href="https://muhammadfiaz.com"/>
+                <link rel="dns-prefetch" href="https://samirsharma.ca"/>
 
-                <meta name="author" content="Muhammad Fiaz"/>
+                <meta name="author" content="Samir Sharma"/>
 
-                <link rel="alternate" hrefLang="en" href="https://muhammadfiaz.com"/>
+                <link rel="alternate" hrefLang="en" href="https://samirsharma.ca"/>
 
                 <meta name="robots" content="index, follow"/>
                 <meta name="googlebot" content="index, follow"/>
@@ -64,30 +64,30 @@ export default function Document() {
                 <link rel="manifest" href="/manifest.json"/>
 
 
-                <meta property="og:title" content="Muhammad Fiaz" key="title"/>
+                <meta property="og:title" content="Samir Sharma" key="title"/>
                 <meta property="og:description"
-                      content="Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey."/>
+                      content="Samir Sharma - Full Stack Dev proficient in App/Web, Cloud, DevOps and AI/ML."/>
                 <meta property="og:image" content="https://avatars.githubusercontent.com/u/75434191?v=4"/>
                 <meta property="og:image:secure_url" content="https://avatars.githubusercontent.com/u/75434191?v=4"/>
                 <meta property="og:image:type" content="image/jpeg"/>
-                <meta property="og:image:alt" content="Muhammad Fiaz"/>
+                <meta property="og:image:alt" content="Samir Sharma"/>
                 <meta property="og:image:width" content="300"/>
                 <meta property="og:image:height" content="300"/>
-                <meta property="og:url" content="https://muhammadfiaz.com"/>
+                <meta property="og:url" content="https://samirsharma.ca"/>
                 <meta property="og:type" content="website"/>
-                <meta property="og:profile" content="https://github.com/muhammad-fiaz"/>
-                <meta property="og:site_name" content="Muhammad Fiaz"/>
+                <meta property="og:profile" content="https://github.com/samirrsharma"/>
+                <meta property="og:site_name" content="Samir Sharma"/>
                 <meta property="og:locale" content="en_US"/>
 
 
                 <meta name="twitter:card" content="summary"/>
-                <meta name="twitter:site" content="https://twitter.com/muhammadfiaz_"/>
-                <meta name="twitter:title" content="Muhammad Fiaz"/>
+                <meta name="twitter:site" content="https://twitter.com/remove"/>
+                <meta name="twitter:title" content="Samir Sharma"/>
                 <meta name="twitter:description"
-                      content="Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AI/ML, and Design. Join my journey."/>
-                <meta name="twitter:image" content="https://avatars.githubusercontent.com/u/75434191?v=4"/>
-                <meta name="twitter:creator" content="https://twitter.com/muhammadfiaz_"/>
-                <meta name="twitter:domain" content="https://muhammadfiaz.com"/>
+                      content="Samir Sharma - Full Stack Dev proficient in App/Web, Cloud, DevOps and AI/ML."/>
+                <meta name="twitter:image" content="https://avatars.githubusercontent.com"/>
+                <meta name="twitter:creator" content="https://twitter.com/remove"/>
+                <meta name="twitter:domain" content="https://samirsharma.ca"/>
 
 
                 <link rel='apple-touch-startup-image' href='/img/logo_rounded.png' sizes='2048x2732'/>
@@ -100,31 +100,31 @@ export default function Document() {
 
                 {/*These are the Keywords that will Boost your SEO in Ranking, so Make Sure to include and Update it up to your preference or don't mind this! 😴*/}
                 <meta name="keywords" content="
-    Muhammad Fiaz, Full Stack Engineer, Full Stack Developer, DevOps Engineer, Software Engineer,
+    Samir Sharma, Full Stack Engineer, Full Stack Developer, DevOps Engineer, Software Engineer,
     Programmer, Software Developer, Portfolio Website, Web Developer, Coding, Full Stack Development,
     Technology Enthusiast, Software Development, Computer Science, Programming Projects,
     Frontend Developer, Backend Developer, Software Development Portfolio, Student,
-    Full Stack Web Developer, Muhammad Fiaz Portfolio, Coding Projects, Tech Portfolio,
-    Web Development, DevOps Professional, Muhammad Fiaz Projects, Software Engineer Portfolio,
+    Full Stack Web Developer, Samir Sharma Portfolio, Coding Projects, Tech Portfolio,
+    Web Development, DevOps Professional, Samir SharmaProjects, Software Engineer Portfolio,
     IT Professional, Technology Projects, Software Development Engineer, Computer Programmer,
     Code Portfolio, Technology Student, Software Architect, Cloud Computing,
     DevOps Specialist, Software Engineering Projects, Coding Portfolio,
-    Full Stack Engineer Portfolio, Muhammad Fiaz Web Developer,
+    Full Stack Engineer Portfolio, Samir Sharma Web Developer,
     Software Development Student, Coding Enthusiast, DevOps Portfolio, Programming Portfolio,
-    Muhammad Fiaz DevOps, IT Portfolio, Web Developer Portfolio, Muhammad Fiaz Developer,
-    Full Stack Engineer Muhammad Fiaz, Muhammad Fiaz Coding, Muhammad Fiaz IT,
-    Muhammad Fiaz Full Stack Developer, Muhammad Fiaz Software Engineer, Muhammad Fiaz DevOps Engineer,
-    Muhammad Fiaz Programming, Muhammad Fiaz Software Development, Muhammad Fiaz Coding Projects,
-    Muhammad Fiaz Tech Portfolio, Muhammad Fiaz IT Portfolio, Muhammad Fiaz Software Engineer Portfolio,
-    Muhammad Fiaz Web Developer Portfolio, Muhammad Fiaz DevOps Portfolio, Muhammad Fiaz Full Stack Engineer,
-    Muhammad Fiaz Full Stack Developer Portfolio, Muhammad Fiaz Coding Portfolio, Muhammad Fiaz Programming Portfolio,
-    Muhammad Fiaz Software Development Portfolio, Muhammad Fiaz Technology Projects,
-    Muhammad Fiaz Computer Science, Muhammad Fiaz Cloud Computing, Muhammad Fiaz IT Professional,
-    Muhammad Fiaz Technology Enthusiast, Muhammad Fiaz Computer Programmer, Muhammad Fiaz Code Portfolio,
-    Muhammad Fiaz Technology Student, Muhammad Fiaz Software Architect,fiaz,fiaz portfolio,fiaz devops,fiaz devops engineer,
-    fiaz devops portfolio,fiaz devops projects,fiaz devops specialist,fiaz devops professional,fiaz devops engineer portfolio,
-    fiaz devops engineer projects,fiaz devops engineer specialist,fiaz devops engineer professional,fiaz devops engineer coding,
-    fiaz devops engineer coding projects,fiaz devops engineer coding portfolio,fiaz devops engineer coding specialist,
+    Samir Sharma DevOps, IT Portfolio, Web Developer Portfolio, Samir Sharma Developer,
+    Full Stack Engineer Samir Sharma, Samir Sharma Coding,Samir Sharma IT,
+    Samir Sharma Full Stack Developer, MSamir Sharma Software Engineer, Samir Sharma DevOps Engineer,
+    Samir Sharma Programming, Samir Sharma Software Development, Samir Sharma Coding Projects,
+    Samir Sharma Tech Portfolio, Samir Sharma IT Portfolio, Samir Sharma Software Engineer Portfolio,
+    Samir Sharma Web Developer Portfolio, Samir Sharma DevOps Portfolio, Samir Sharma Full Stack Engineer,
+    Samir Sharma Full Stack Developer Portfolio, Samir Sharma Coding Portfolio, Samir Sharma Programming Portfolio,
+    Samir Sharma Software Development Portfolio, Samir Sharma Technology Projects,
+    Samir Sharma Computer Science, Samir Sharma Cloud Computing, Samir Sharma IT Professional,
+    Samir Sharma Technology Enthusiast, Samir Sharma Computer Programmer, Samir Sharma Code Portfolio,
+    Samir Sharma Technology Student, Samir Sharma Software Architect,sharma,sharma portfolio,sharma devops,sharma devops engineer,
+    sharma devops portfolio,sharma devops projects,sharma devops specialist,sharma devops professional,sharma devops engineer portfolio,
+    sharma devops engineer projects,sharma devops engineer specialist,sharma devops engineer professional,sharma devops engineer coding,
+    sharma devops engineer coding projects,sharma devops engineer coding portfolio,sharma devops engineer coding specialist,
     Open Source Contributor,open source,open source projects,open source portfolio,open source contributions,
     open source contributions portfolio,open source contributions projects,open source contributions coding,
     open source contributions coding projects,open source contributions coding portfolio,open source contributions coding specialist,
@@ -148,14 +148,14 @@ export default function Document() {
                         __html: `{
           "@context": "https://schema.org",
           "@type": "Person",
-          "name": "Muhammad Fiaz",
-          "url": "https://muhammadfiaz.com",
+          "name": "Samir Sharma",
+          "url": "https://samirsharma.ca",
           "sameAs": [
-            "https://github.com/muhammad-fiaz",
-            "https://www.linkedin.com/in/muhammad-fiaz-",
-            "https://medium.com/@muhammad-fiaz",
-            "https://twitter.com/muhammadfiaz_",
-            "https://dev.to/muhammadfiaz"
+            "https://github.com/samirrsharma",
+            "https://www.linkedin.com/in/samir-rsharma",
+            "https://medium.com/@samirraisharma",
+            "https://twitter.com/remove",
+            "https://dev.to/samir_rsharma"
           ]
         }`
                     }}
@@ -182,31 +182,31 @@ export default function Document() {
                 "name": "Can we recruit you?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Yes, I am currently looking for jobs and I have also done several open-source projects as well."
+                  "text": "Yes, I am currently looking for jobs and coops through Waterloo."
                 }
               },
               {
                 "@type": "Question",
-                "name": "Who is Muhammad Fiaz?",
+                "name": "Who is Samir Sharma?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Muhammad Fiaz is a Full Stack Developer specializing in Cloud, DevOps, ML/AI, and Design. He is passionate about programming, innovation, and shaping the future. With expertise in various technologies and a strong background in software development, Muhammad Fiaz strives to create innovative solutions and contribute to the advancement of technology. His skill set includes proficiency in cloud computing, DevOps practices, machine learning/artificial intelligence, and design principles. Muhammad Fiaz is dedicated to staying up-to-date with the latest industry trends and leveraging his knowledge to drive impactful and transformative projects."
+                  "text": "Samir Sharma (the greatest dev alive) is a Full Stack Dev specializing in Cloud, DevOps, ML/AI, and Wevdev. He is currently studying at the University of Waterloo graduating in 2029."
                 }
               },
               {
                 "@type": "Question",
-                "name": "Where is Muhammad Fiaz from?",
+                "name": "Where is Samir Sharma from?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Muhammad Fiaz is from Madurai, Tamil Nadu, India."
+                  "text": "Samir Sharma is from Earth (shocking I know). He was born and raised in Calgary, Alberta, Canada."
                 }
               },
               {
                 "@type": "Question",
-                "name": "What does Muhammad Fiaz do?",
+                "name": "What does Samir Sharma do?",
                 "acceptedAnswer": {
                   "@type": "Answer",
-                  "text": "Muhammad Fiaz leverages Cloud, DevOps, ML/AI, Design, and web/mobile apps to benefit people with optimized operations and user-friendly experiences."
+                  "text": "MSamir leverages Cloud, DevOps, ML/AI, Design, and web apps to benefit people with optimized operations and user-friendly experiences."
                 }
               }
             ]
@@ -224,27 +224,27 @@ export default function Document() {
               "@type": "ListItem",
               "position": 1,
               "name": "Home",
-              "item": "https://muhammadfiaz.com/"
+              "item": "https://samirsharma.ca/"
             },{
               "@type": "ListItem",
               "position": 2,
               "name": "Docs",
-              "item": "https://muhammadfiaz.com/docs"
+              "item": "https://samirsharma.ca/docs"
             },{
               "@type": "ListItem",
               "position": 3,
               "name": "Articles",
-              "item": "https://muhammadfiaz.com/articles"
+              "item": "https://samirsharma.ca/articles"
             },{
               "@type": "ListItem",
               "position": 4,
               "name": "Projects",
-              "item": "https://muhammadfiaz.com/projects"
+              "item": "https://samirsharma.ca/projects"
             },{
               "@type": "ListItem",
               "position": 5,
               "name": "Sign In",
-              "item": "https://muhammadfiaz.com/signin"
+              "item": "https://samirsharma.ca/signin"
             }]
           }
         `
@@ -254,15 +254,15 @@ export default function Document() {
                 <script type="application/ld+json" dangerouslySetInnerHTML={{
                     __html: `
           {
-            "@context": "https://schema.org",
+            "@context": "http://3.21.227.52:3000/",
             "@type": "ResearchProject",
-            "name": "NeuroLink",
-            "description": "NeuroLink is a Python package that aims to provide various AI capabilities, including a chatbot, image processing, audio processing, Django support, and more. It utilizes TensorFlow and other related technologies for natural language processing and AI tasks.",
-            "alternateName": "neurolink",
-            "url": "https://github.com/muhammad-fiaz/neurolink",
+            "name": "Object Detection",
+            "description": "Object Detection is a Python package that aims to provide object detectio image processing. It utilizes PyTorch and other related technologies for image processing and AI tasks.",
+            "alternateName": "object detection",
+            "url": "https://github.com/samirrsharma",
             "logo": "https://private-user-images.githubusercontent.com/75434191/242214243-82fbf702-43e2-46e6-8e01-11758fa26310.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTQ4NTE2ODksIm5iZiI6MTY5NDg1MTM4OSwicGF0aCI6Ii83NTQzNDE5MS8yNDIyMTQyNDMtODJmYmY3MDItNDNlMi00NmU2LThlMDEtMTE3NThmYTI2MzEwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA5MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwOTE2VDA4MDMwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3NjJmNzA5MGU5NWY4NTUxZTcxYmVmNzNlZTYzOTViN2FjNzE1YTM2MjM1OTNlOGIxNzk0ODE1NDczMDMzNGEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ay5bRLRoojQ33ZJLFnvjyq6Dq4qZfDY7quvv4WmgRLI",
              "sameAs": [
-            "https://www.linkedin.com/in/muhammad-fiaz-/"
+            "https://www.linkedin.com/in/samir-rsharma"
         ]          }
         `
                 }}/>

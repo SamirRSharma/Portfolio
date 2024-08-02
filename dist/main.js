@@ -27,15 +27,15 @@ function title_index_TitleIndex() {
   }), __jsx("meta", {
     name: "viewport",
     content: "width=device-width, initial-scale=1, viewport-fit=cover"
-  }), __jsx("title", null, "Muhammad Fiaz"), __jsx("meta", {
+  }), __jsx("title", null, "Samir Sharma"), __jsx("meta", {
     name: "application-name",
-    content: "Muhammad Fiaz"
+    content: "Samir Sharma"
   }), __jsx("meta", {
     name: "description",
-    content: "Muhammad Fiaz - A dedicated Full Stack Developer proficient in App/Web, Cloud, DevOps, AL/ML, and Design. Join my journey."
+    content: "Samir Sharma -  Full Stack Dev proficient in App/Web, Cloud, DevOps and AL/ML."
   }), __jsx("meta", {
     name: "title",
-    content: "Muhammad Fiaz"
+    content: "Samir Sharma"
   }));
 }
 // EXTERNAL MODULE: ./node_modules/next/dynamic.js
@@ -159,7 +159,7 @@ function github_graph_GithubGraphSection() {
     className: "p-6 w-full flex justify-center items-center overflow-hidden rounded-md border-2 border-opacity-60 border-gray-700 transition-all hover:border-primary-900"
   }, github_graph_jsx(GitHubCalendar, {
     key: "".concat(year, "-calendar"),
-    username: "muhammad-fiaz",
+    username: "samirrsharma",
     year: year,
     colorScheme: "dark"
   }))))))));

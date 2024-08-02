@@ -127,7 +127,7 @@ function Home() {
     src: "https://avatars.githubusercontent.com/u/75434191?v=4",
     width: 600,
     height: 800,
-    alt: "Muhammad Fiaz",
+    alt: "Samir Sharma",
     loading: "eager"
   })), __jsx("div", {
     className: _styles_scss_sections_index_about_module_scss__WEBPACK_IMPORTED_MODULE_7__/* ["default"].copy */ .Ay.copy

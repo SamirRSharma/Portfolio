@@ -31,7 +31,7 @@ const DevToRecent: React.FC<DevToRecentProps> = ({ devToArticles }) => {
         <Section classProp="borderBottom">
             <Container spacing={['verticalXXXXLrg']}>
                 <SectionTitle
-                    title="Recent Dev.to Blogs"
+                    title="Coming Soon"
                     preTitle="Knowledgable"
                     subTitle="Exploring insights and experiences on Dev.to."
                 />

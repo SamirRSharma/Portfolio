@@ -28,11 +28,11 @@ export default function Career() {
 
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
-						<h3>Open Source Contributor & Full Stack Developer</h3>
+						<h3>Software Engineer Intern | Quicklyr</h3>
 									<h4>Permanent Full Time · Present</h4>
 							</span>
 							<p>
-								As a Full Stack Developer, my current focus lies in the field of complex project development. I am committed to continuously enhancing my skills and expanding my knowledge to gain valuable experience in this domain. By actively staying updated with the latest advancements and trends in the industry, I ensure that I am equipped with the necessary tools and techniques to tackle challenging projects. My primary goal is to contribute effectively to the development of sophisticated applications, leveraging my expertise in both front-end and back-end technologies. Through my dedication to continuous improvement, I strive to deliver high-quality solutions that meet the evolving needs of the industry.
+								Worked as a full time intern at Quickly, a fintech startup in Calgary Alberta. Worked closely with the technical team on backend efforts (such as defining our api endpoints through Yup and creating a public react API website). Also worked on frontend efforts such as using Storybook to create a component repo featuring components from admin and public page.
 							</p>
 						</div>
 						<div className={career.companyAlt}></div>

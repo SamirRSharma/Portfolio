@@ -17,7 +17,7 @@ export default function Education() {
                 <SectionTitle
                     title="Education"
                     preTitle="Formal"
-                    subTitle="I am currently studying computer science at the Velammal college of engineering and technology."
+                    subTitle="I am going into my first year at the University of Waterloo in the coop honours math program."
                 />
                 <section className={career.area}>
 
@@ -27,7 +27,7 @@ export default function Education() {
             <h3>Velammal College of Engineering and Technology</h3>
             <h5>Madurai, Tamil Nadu</h5>
         </span>
-                            <p>I am currently pursuing my Bachelors degree in Computer Science and Engineering at Velammal College of Engineering and Technology. This four-year program offers a comprehensive curriculum that covers various aspects of computer science and its applications.</p>
+                            <p>I am currently pursuing my MMath Degree in Data Science and Computational Mathematics at UWaterloo. This five-year program offers a comprehensive curriculum that covers various aspects of computer science and allows me to take 5 work terms during my degree..</p>
 
                         </div>
                         <div className={career.companyAlt}></div>

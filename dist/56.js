@@ -119,7 +119,7 @@ var button_module_update = injectStylesIntoStyleTag_default()(button_module/* de
        /* harmony default export */ const blocks_button_module = (button_module/* default */.Ay && button_module/* default */.Ay.locals ? button_module/* default */.Ay.locals : undefined);
 
 ;// CONCATENATED MODULE: ./src/content/index/hero.json
-const hero_namespaceObject = /*#__PURE__*/JSON.parse('{"Lv":{"ni":"const myName = () =>","_N":"Hey there!, my name is","eY":60,"AM":80,"iE":"h2","yB":1000,"Th":3000,"lX":12000},"wx":{"U":"Muhammad Fiaz.","d":"Passionate Full Stack Developer."},"FY":"From an early age, my fascination with programming and computers ignited a lifelong passion. Constantly learning and developing, I strive to make a profound impact through innovative solutions and visionary ideas, shaping the future with my unwavering commitment to technological advancement. ","Uo":{"z":{"DD":"Hire Me"},"R":{"DD":"LinkedIn"}}}');
+const hero_namespaceObject = /*#__PURE__*/JSON.parse('{"Lv":{"ni":"const myName = () =>","_N":"Hey there!, my name is","eY":60,"AM":80,"iE":"h2","yB":1000,"Th":3000,"lX":12000},"wx":{"U":"Samir Sharma.","d":"Passionate Full Stack Developer."},"FY":"From an early age, my fascination with programming and computers ignited a lifelong passion. Constantly learning and developing, I strive to make a profound impact through innovative solutions and visionary ideas, shaping the future with my unwavering commitment to technological advancement. ","Uo":{"z":{"DD":"Hire Me"},"R":{"DD":"LinkedIn"}}}');
 ;// CONCATENATED MODULE: ./src/components/sections/index/hero.jsx
 var hero_jsx = react.createElement;
 
@@ -173,7 +173,7 @@ function Hero() {
   }, hero_jsx("button", {
     className: "button ".concat(blocks_button_module.primary),
     onClick: function onClick() {
-      return window.location = 'mailto:contact@muhammadfiaz.com';
+      return window.location = 'mailto:resume@samirsharma.ca';
     },
     onMouseEnter: function onMouseEnter() {
       return setIsHiremeTooltipVisible(true);
@@ -191,7 +191,7 @@ function Hero() {
   })), hero_jsx("button", {
     className: "button ".concat(blocks_button_module.secondary, " leaveSite"),
     onClick: function onClick() {
-      return window.open('https://www.linkedin.com/in/muhammad-fiaz-', '_blank');
+      return window.open('https://www.linkedin.com/in/samirrsharma', '_blank');
     },
     onMouseEnter: function onMouseEnter() {
       return setIsYescatTooltipVisible(true);

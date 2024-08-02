@@ -38,7 +38,7 @@ export default function Technical() {
 
 						<BadgesBlock
 							title="Software I love to work with"
-							copy="As a self-taught programmer with a passion for project development, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. I particularly enjoy working with tools like VS Code and JetBrains software to create exceptional projects."
+							copy="As a self-taught programmer with a passion for project development, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. I particularly enjoy working with tools like VS Code to create exceptional projects."
 							list={software}
 							block="software"
 							fullContainer="fullContainer"
@@ -69,12 +69,10 @@ export default function Technical() {
 {/*Badge Block*/}
 const software = [
 	{ key: 'photoshop', 	name: 'Photoshop', 			type: 'devicon' },
-	{ key: 'figma', 		name: 'Figma', 				type: 'devicon' },
 	{ key: 'jetbrains', name: 'Jetbrains', type: 'devicon' },
 	{ key: 'vscode', 		name: 'VSCode', 			type: 'devicon' },
 	{key:'blender',name:'blender',type:'devicon'},
 	{key:'unity',name:'unity',type:'devicon'},
-	{key:'androidstudio',name:'AndroidStudio',type:'devicon'},
 	{key:'unrealengine',name:'UnrealEngine',type:'devicon'}
 
 
@@ -98,19 +96,15 @@ const tech = [
 	{ key: 'python', name: 'Python', type: 'devicon' },
 	{ key: 'java', name: 'Java', type: 'devicon' },
 	{ key: 'csharp', name: 'C#', type: 'devicon' },
-	{ key: 'django', name: 'Django', type: 'devicon' },
 	{ key: 'typescript', name: 'TypeScript', type: 'devicon' },
 	{ key: 'c', name: 'C', type: 'devicon' },
 	{ key: 'cplusplus', name: 'C++', type: 'devicon' },
-	{ key: 'jquery', name: 'jQuery', type: 'devicon' },
-	{ key: 'kotlin', name: 'Kotlin', type: 'devicon' },
 	{ key: 'vuejs', name: 'Vuejs', type: 'devicon' },
 	{ key: 'tailwind', name: 'TailwindCSS', type: 'devicon' },
 	{ key: 'bootstrap', name: 'Bootstrap', type: 'devicon' },
 	{ key: 'npm', name: 'npm', type: 'devicon' },
 	{ key: 'yarn', name: 'Yarn', type: 'devicon' },
 	{key:"angularjs",name:"AngularJS",type:"devicon"},
-	{key:"android",name:"Android",type:"devicon"},
 	{key:"firebase",name:"Firebase",type:"devicon"},
 	{key:"flask",name:"Flask",type:"devicon"}
 
