@@ -24,10 +24,10 @@ export default function Education() {
                     <article className={career.company}>
                         <div className={career.companyContent}>
         <span className={career.companyHeader}>
-            <h3>Velammal College of Engineering and Technology</h3>
-            <h5>Madurai, Tamil Nadu</h5>
+            <h3>University of Waterloo | Faculty of Mathematics</h3>
+            <h5>Waterloo, Ontario, Canada</h5>
         </span>
-                            <p>I am currently pursuing my MMath Degree in Data Science and Computational Mathematics at UWaterloo. This five-year program offers a comprehensive curriculum that covers various aspects of computer science and allows me to take 5 work terms during my degree..</p>
+                            <p>I am currently pursuing my MMath Degree in Data Science and Computational Mathematics at UWaterloo. This five-year program offers a comprehensive curriculum that covers various aspects of computer science and allows me to take 5 work terms during my degree.</p>
 
                         </div>
                         <div className={career.companyAlt}></div>

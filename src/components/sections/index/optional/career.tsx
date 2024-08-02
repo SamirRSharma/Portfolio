@@ -28,7 +28,7 @@ export default function Career() {
 
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
-						<h3>Software Engineer Intern | Quicklyr</h3>
+						<h3>Software Engineer Intern | Quickly</h3>
 									<h4>Permanent Full Time · Present</h4>
 							</span>
 							<p>

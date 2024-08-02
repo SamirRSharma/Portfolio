@@ -67,8 +67,8 @@ export default function Document() {
                 <meta property="og:title" content="Samir Sharma" key="title"/>
                 <meta property="og:description"
                       content="Samir Sharma - Full Stack Dev proficient in App/Web, Cloud, DevOps and AI/ML."/>
-                <meta property="og:image" content="https://avatars.githubusercontent.com/u/75434191?v=4"/>
-                <meta property="og:image:secure_url" content="https://avatars.githubusercontent.com/u/75434191?v=4"/>
+                <meta property="og:image" content="https://avatars.githubusercontent.com/u/63667630?=4"/>
+                <meta property="og:image:secure_url" content="https://avatars.githubusercontent.com/u/63667630?=4"/>
                 <meta property="og:image:type" content="image/jpeg"/>
                 <meta property="og:image:alt" content="Samir Sharma"/>
                 <meta property="og:image:width" content="300"/>
