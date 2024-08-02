@@ -1,0 +1,64 @@
+{
+	"Websites": [
+		{
+			"person": "samirsharma.ca",
+			"link": "https://samirsharma.ca/",
+			"note": ""
+		},
+		{
+			"person": "articles.samirsharma.ca",
+			"link": "https://samirsharma.ca/",
+			"note": ""
+		}
+
+	],
+
+	"links": [
+		{
+			"person": "Home",
+			"link": "https://samirsharma.ca/",
+			"note": ""
+		},
+		{ 
+			"person": "Documentations",
+			"link": "https://samirsharma.ca/docs",
+			"note": ""
+		},	{
+			"person": "Articles",
+			"link": "https://samirsharma.ca/articles",
+			"note": ""
+		},
+
+		{
+			"person": "Projects",
+			"link": "https://samirsharma.ca/projects",
+			"note": ""
+		},
+		{
+			"person": "Contact",
+			"link": "mailto:resume@samirsharma.ca",
+			"note": ""
+		}
+
+
+	],
+
+	"social": [
+		{
+			"url": "https://medium.com/@muhammad-fiaz",
+			"icon": "medium"
+		},
+		{
+			"url": "https://dev.to/muhammadfiaz",
+			"icon": "dev"
+		},
+		{
+			"url": "https://www.linkedin.com/in/samir-rsharma/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/samirrsharma",
+			"icon": "github"
+		}
+	]
+}

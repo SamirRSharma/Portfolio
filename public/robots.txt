@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: *
+
+# Host
+Host: https://samirsharma.ca
+Host: https://www.samirsharma.ca
+
+# Sitemaps
+Sitemap: https://samirsharma.casitemap.xml
+Sitemap: https://samirsharma.ca/sitemap-0.xml
