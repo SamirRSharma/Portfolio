@@ -29,10 +29,10 @@ export default function Career() {
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
 						<h3>Software Engineer Intern | Quickly</h3>
-									<h4>Permanent Full Time · Present</h4>
+									<h4>Permanent Full Time · June 2023 - Present</h4>
 							</span>
 							<p>
-								Worked as a full time intern at Quickly, a fintech startup in Calgary Alberta. Worked closely with the technical team on backend efforts (such as defining our api endpoints through Yup and creating a public react API website). Also worked on frontend efforts such as using Storybook to create a component repo featuring components from admin and public page.
+								Worked as a full time intern at Quickly, a fintech startup in Calgary Alberta. Worked closely with the technical team on backend efforts (such as defining our api endpoints through Yup and creating a public react API website). Also worked on frontend efforts such as using Storybook to create a component repo featuring components from admin and public page. Worked on a team of 7 developers working in a agile enviroment, familer with agile scrum, story points and planning poker.
 							</p>
 						</div>
 						<div className={career.companyAlt}></div>
