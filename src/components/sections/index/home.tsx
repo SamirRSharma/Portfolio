@@ -21,7 +21,7 @@ export default function Home() {
 				<SectionTitle
 					title="About Me"
 					preTitle="Synopsis"
-					subTitle="From an early age, my passion for creating new things has been a driving force. Immersed in the world of oding, I honed my skills and explored innovative solutions.."
+					subTitle="From an early age, my passion for creating new things has been a driving force. Immersed in the world of coding, I honed my skills and explored innovative solutions."
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
@@ -33,7 +33,7 @@ export default function Home() {
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fas', 'user' ]}
-							copy="With a solid background in  technical expertise, I am a skilled developer who excels in delivering high-quality solutions. Alongside my proficiency in coding, I possess strong leadership, time management, and multitasking skills, which I have honed through managing complex development projects. I constantly seek opportunities to expand my knowledge and stay updated with the latest industry trends. I am committed to bringing value and success to every development endeavor."
+							copy="With a solid background in  technical expertise, I am a skilled developer who excels in delivering high-quality solutions. Alongside my proficiency in coding, I possess strong leadership, time management, and multitasking skills, which I have honed through managing complex development projects. I constantly seek opportunities to expand my knowledge and stay updated with the latest industry trends. I am committed to bringing value and success to every development endeavour."
 						/>
 						<CopyBlock
 							title="Development and Projects"
