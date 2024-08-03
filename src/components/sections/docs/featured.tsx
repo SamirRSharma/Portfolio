@@ -21,7 +21,7 @@ export default function Recent({ }) {
                 <SectionTitle
                     title="Featured Docs"
                     preTitle="Documentation"
-                    subTitle="featured documentation of projects"
+                    subTitle="featured documentation of public projects"
                 />
                 <section className={css.projects}>
                     {

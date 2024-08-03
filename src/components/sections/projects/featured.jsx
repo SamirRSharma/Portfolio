@@ -19,7 +19,7 @@ export default function FeaturedProjects() {
 				<SectionTitle
 					title="Featured Projects"
 					preTitle="UX and Full Stack"
-					subTitle="Focused on the experience, driven by the engineering."
+					subTitle="Maybe I can actually code?"
 				/> 				{
 				content.map( (data, index) => {
 					return (
