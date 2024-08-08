@@ -44,7 +44,7 @@ export default function Navbar() {
 	const email = Cookies.get('email');
 	const password = Cookies.get('password');
 
-	let signInContent; // Declare a variable to hold sign-in content
+	/*let signInContent; // Declare a variable to hold sign-in content
 
 	// Determine the sign-in content based on cookie existence
 	if (email && password) {
@@ -63,7 +63,7 @@ export default function Navbar() {
 				<Link href="/signin">Sign In</Link>
 			</button>
 		);
-	}
+	}*/
 
 	// useEffect: Set the initial menu state to false
 	useEffect(() => {
@@ -230,7 +230,7 @@ export default function Navbar() {
 						<li>
 							<ThemeMode />
 						</li>
-						<li>{signInContent}</li>
+						<li>{/*signInContent*/}</li>
 					</ul>
 				</li>
 			</ul>
