@@ -43,7 +43,7 @@ const DevelopmentNotice: React.FC = () => {
         setWelMsg("Make sure to Follow me on Github for more! ❤️");
         setHideContent(true); // Hide existing content
         setShowNewPlayer(true); // Show new Player
-        const timeoutDuration = 5000;
+        const timeoutDuration = 10;
         setTimerRemaining(timeoutDuration / 1000);
         const intervalId = setInterval(() => {
             setTimerRemaining((prev) => (prev !== null ? prev - 1 : null));
