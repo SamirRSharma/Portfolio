@@ -3,7 +3,7 @@
 		"project": "Object Detection",
 		"url": "https://github.com/samirrsharma/final-object-detection",
 		"repo": "Public",
-		"descriptionTitle": "React Objective Detection Site",
+		"descriptionTitle": "React Object Detection Site",
 		"description": "that works to tell you how many of x object is in a uploaded website",
 		"imageOptions": [
 		],
@@ -18,11 +18,11 @@
 
 	},
 	{
-		"project": "samirsharma.ca",
-		"url": "https://github.com/samirrsharma/portfolio",
+		"project": "PulseGrip",
+		"url": "https://github.com/PulseGrip",
 		"repo": "Public",
-		"descriptionTitle": "Portfolio website",
-		"description": "built on Next.js and React. A fast and responsive single page application.",
+		"descriptionTitle": "Hackathon Project",
+		"description": "Hack the North Winner, bionic arm with fullstack application linked",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
@@ -37,10 +37,10 @@
 			{ "key": "typescript", 	"name": "Typescript", 	"type": "devicon" },
 			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
 			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
-			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
+			{ "key": "amazonwebservices",		"name": "AWS EC2", 		"type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
 			{"key": "python", "name": "Python", "type": "devicon"},
-			{"key": "django", "name": "Django", "type": "devicon"}
+			{"key": "mongodb", "name": "MongoDB", "type": "devicon"}
 
 		]
 	}
